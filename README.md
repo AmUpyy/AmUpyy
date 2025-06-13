@@ -2,9 +2,8 @@
 
 ## 🧙 Yu-Gi-Oh! Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400px" alt="Yugi Summoning Dark Magician"/>
+  <img src="https://media.tenor.com/wvMClzGJkrYAAAAC/yami-yugi-dark-magician.gif" width="400px" alt="Yugi Summoning Dark Magician"/>
 </p>
-
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=ITNSA+•+Debian+•+Ansible+•+Kali+Linux)
 
