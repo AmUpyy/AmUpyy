@@ -1,11 +1,21 @@
 ## 👋 Yo! I'm AmUpyy
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=435&lines=ITNSA+•+Debian+•+Ansible+•+Kali+Linux)
+## 🧙 Yu-Gi-Oh! Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400px" alt="Yugi Summoning Dark Magician"/>
+</p>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=ITNSA+•+Debian+•+Ansible+•+Kali+Linux)
 
 ## 🏅 Badges:
-![LKSN](https://img.shields.io/badge/LKSN-2024-blueviolet?style=for-the-badge)
+![LKSN](https://img.shields.io/badge/LKSN-2025-blueviolet?style=for-the-badge)
 ![SysAdmin](https://img.shields.io/badge/SysAdmin-%23009639?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux Enthusiast](https://img.shields.io/badge/Linux%20Enthusiast-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🔥 Favorite Tools & Vibes:
+![Zeal](https://img.shields.io/badge/Zeal-Docs-orange?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Anime](https://img.shields.io/badge/Fav%20Anime-YuGiOh!-red?style=for-the-badge&logo=television&logoColor=white)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luthpipp) 
