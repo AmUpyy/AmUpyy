@@ -1,7 +1,8 @@
 ## 👋 Yo! I'm AmUpyy
 
 ## 🧙 Yu-Gi-Oh! Vibes
-![Dark Magician Summon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjIxb2h1dXc3dmN2cmQ1dzVzejZxanh0NjNxOWp2eDd3aTN3N2hicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5USTijryafZEQ/giphy.gif)
+![Dark Magician Summon]
+( https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpbG50enZyb3JxdDhpZjR1ZGg3NXUxYzE5NXJ2YzY5NnFtOHR0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vZRdMe89bFkTm/giphy.gif ) 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=ITNSA+•+Debian+•+Ansible+•+Kali+Linux)
 
